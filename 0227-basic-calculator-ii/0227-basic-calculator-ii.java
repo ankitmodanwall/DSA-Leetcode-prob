@@ -2,7 +2,7 @@ class Solution {
     public int calculate(String s) {
         Stack<Integer> st = new Stack<>();
         char c = '+';
-        long n = 0;
+        int  n = 0;
 
         for (int i = 0; i < s.length(); i++) {
             char c1 = s.charAt(i);
