@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0367-valid-perfect-square) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0162-find-peak-element) |
