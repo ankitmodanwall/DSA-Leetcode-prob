@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@
 | [0242-valid-anagram](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
