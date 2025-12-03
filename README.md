@@ -16,6 +16,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
+| [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
 ## String
 |  |
 | ------- |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
