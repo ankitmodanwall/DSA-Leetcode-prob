@@ -78,6 +78,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
