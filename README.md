@@ -20,6 +20,7 @@
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1929-concatenation-of-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
+| [1929-concatenation-of-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
