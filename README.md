@@ -21,6 +21,7 @@
 | [1051-height-checker](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
@@ -77,6 +78,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0367-valid-perfect-square) |
+| [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
+| [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
 | ------- |
