@@ -69,6 +69,7 @@
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0290-word-pattern](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
