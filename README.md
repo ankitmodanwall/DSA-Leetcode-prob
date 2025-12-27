@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
@@ -121,6 +122,7 @@
 | [0088-merge-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0876-middle-of-the-linked-list) |
@@ -187,6 +189,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
