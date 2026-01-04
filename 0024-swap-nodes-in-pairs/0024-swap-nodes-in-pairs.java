@@ -19,10 +19,10 @@ while(curr!= null && curr.next != null){
     ListNode second = curr.next;
 
     second.next = curr;
-    curr.next = npn;
+    curr.next = npn; // npn = next pair node
     prev.next = second;
 
-    prev = curr;
+    prev = curr; // swap
     curr = npn;
 }
 return dummy.next;
