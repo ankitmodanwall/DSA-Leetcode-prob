@@ -10,41 +10,24 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        if(head == null){
-            return null;
-        }
-        ListNode mover = head.next;
-        ListNode prev = head;
-        ListNode dummy = new ListNode(-200);
-        ListNode dummyMover = dummy;
-        int corrupted = 200;
-        while(mover!=null){
-            if(prev.val == mover.val){
-                corrupted = prev.val;
-                            }
-        else if(prev.val != mover.val && corrupted != prev.val){
-            dummyMover.next = prev;
-            dummyMover = dummyMover.next;
+        ListNode dummy = new ListNode(100);
+        dummy.next = head;
 
-        }
-        else if (prev.val != mover.val && corrupted != prev.val){
-            dummyMover.next = prev;
-            dummyMover = dummyMover.next;
-        }
-        else if (prev.val != mover.val && mover.next == null){
-            dummyMover.next = mover;
-            dummyMover = dummyMover.next;
-        }
-        prev = prev.next;
-        mover = mover.next;
-        }
-        if(prev.next == null && prev.val != corrupted){
-            dummyMover.next = prev;
-            dummyMover = dummyMover.next;
-        }
-        dummyMover.next = null;
-        dummy = dummy.next;
-        return dummy;
+        ListNode prev = dummy;
+        ListNode curr = head;
 
-    }
-}
+        while(curr != null){
+            if(curr.next  != null && curr.val == curr.next.val){
+                
+                    while(curr.next != null && curr.val == curr.next.val){
+                    curr = curr.next;
+                }
+                prev.next = curr.next;
+            } else{
+                prev = prev.next;
+            }
+            curr = curr.next;
+        }
+    
+        return dummy.next;
+}}
