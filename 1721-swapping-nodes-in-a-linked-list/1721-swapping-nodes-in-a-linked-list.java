@@ -15,12 +15,14 @@ class Solution {
         ListNode first = head;
         ListNode second = head;
 
-        for(int i = 0; i<k-1;++i)
+        for(int i = 0; i<k-1;++i){
+
     
         fast = fast.next;
 
     
     first = fast;
+        }
     while(fast.next != null){
         slow = slow.next;
         fast = fast.next;
