@@ -1,4 +1,5 @@
 import java.util.Stack;
+
 class MinStack {
     private Stack<Integer> st;
     private int min;
@@ -8,6 +9,7 @@ class MinStack {
         min = Integer.MAX_VALUE;
 
     }
+
     public void push(int val) {
         if (val <= min) {
             st.push(min);
@@ -18,7 +20,7 @@ class MinStack {
 
     public void pop() {
         int top = st.pop();
-        if (top == min){
+        if (top == min) {
 
             min = st.pop();
         }
