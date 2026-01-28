@@ -181,6 +181,7 @@
 | [0155-min-stack](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
 ## Interactive
@@ -250,4 +251,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
