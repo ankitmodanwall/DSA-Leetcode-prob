@@ -23,6 +23,7 @@
 | [0275-h-index-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
 | [0875-koko-eating-bananas](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0875-koko-eating-bananas) |
@@ -47,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -188,6 +190,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 ## Interactive
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
