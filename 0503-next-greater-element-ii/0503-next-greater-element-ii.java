@@ -1,3 +1,4 @@
+import java.util.Stack;
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         Stack<Integer> nums1 = new Stack<>();
