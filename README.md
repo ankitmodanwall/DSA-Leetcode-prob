@@ -199,6 +199,7 @@
 | [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -212,6 +213,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
@@ -278,9 +280,14 @@
 | [0155-min-stack](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
