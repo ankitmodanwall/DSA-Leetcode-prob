@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
@@ -64,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0367-valid-perfect-square) |
@@ -143,6 +145,7 @@
 | [0143-reorder-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1721-swapping-nodes-in-a-linked-list) |
