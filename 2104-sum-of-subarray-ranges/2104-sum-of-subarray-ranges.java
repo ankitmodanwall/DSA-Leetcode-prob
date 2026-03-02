@@ -55,7 +55,7 @@ class Solution {
             maxSum += (long) nums[i] * leftGreater[i] * rightGreater[i];
             minSum += (long) nums[i] * leftSmaller[i] * rightSmaller[i];
         }
-
+// difference 
         return maxSum - minSum;
     }
 }
