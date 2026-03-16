@@ -20,6 +20,7 @@
 | [0162-find-peak-element](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0189-rotate-array) |
+| [0221-maximal-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
 | [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 ## String
