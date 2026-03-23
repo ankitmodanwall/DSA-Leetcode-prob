@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0162-find-peak-element) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
 | [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
@@ -202,6 +205,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
@@ -227,6 +231,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
