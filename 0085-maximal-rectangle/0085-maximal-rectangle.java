@@ -5,7 +5,6 @@ class Solution {
 
         int m = matrix.length;
         int n = matrix[0].length;
-
         int[][] mat = new int[m][n];
 
         for (int i = 0; i < m; i++) {
