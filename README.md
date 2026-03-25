@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0155-min-stack) |
@@ -231,6 +233,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0402-remove-k-digits) |
