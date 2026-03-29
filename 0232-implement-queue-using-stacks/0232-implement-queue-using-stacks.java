@@ -1,6 +1,7 @@
 class MyQueue {
-    private Stack<Integer> inp;
-    private Stack<Integer> op;
+     Stack<Integer> inp = new Stack<>();
+     Stack<Integer> op = new Stack<>();
+     
 
     public MyQueue() {
         inp = new Stack<>();
