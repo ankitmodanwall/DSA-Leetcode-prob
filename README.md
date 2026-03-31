@@ -311,15 +311,18 @@
 | [0225-implement-stack-using-queues](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0933-number-of-recent-calls) |
 ## Depth-First Search
 |  |
 | ------- |
