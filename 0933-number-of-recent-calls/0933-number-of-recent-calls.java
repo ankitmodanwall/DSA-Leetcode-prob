@@ -1,18 +1,15 @@
 class RecentCounter {
-private static final int[] record = new int[10000]; 
-private int start;
-private int end;
+Queue<Integer> q;
     public RecentCounter() {
-        start = 0;
-        end = 0;
+        q = new LinkedList<>();
     }
     
     public int ping(int t) {
-        while(start < end && (t-record[start]> 3000)){
-            start++;
-        }
-        record[end++] = t;
-        return end - start;
+     q.add(t);
+     while(!q.isEmpty() && q.peek() < t - 3000 ){
+        q.poll(); // remove
+     }
+    return q.size();
     }
 }
 
