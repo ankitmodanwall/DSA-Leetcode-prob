@@ -43,6 +43,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1539-kth-missing-positive-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -227,6 +228,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2104-sum-of-subarray-ranges) |
 ## Interactive
 |  |
@@ -250,6 +252,7 @@
 | ------- |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
@@ -320,6 +323,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
