@@ -1,5 +1,7 @@
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
+
+        // count students
         int ones = 0, zeros = 0;
         for (int std : students) {
             if (std == 0) {
@@ -8,6 +10,8 @@ class Solution {
                 ones++;
             }
         }
+
+        // count sandwich
         for (int sandwich : sandwiches) {
             if (sandwich == 0) {
                 if (zeros == 0)
