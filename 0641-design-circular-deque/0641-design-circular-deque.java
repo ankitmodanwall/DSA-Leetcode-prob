@@ -14,7 +14,8 @@ class MyCircularDeque {
     }
 
     public boolean insertFront(int value) {
-        if (isFull()) return false;
+        if (isFull())
+            return false;
 
         front = (front - 1 + capacity) % capacity;
         v[front] = value;
@@ -23,7 +24,8 @@ class MyCircularDeque {
     }
 
     public boolean insertLast(int value) {
-        if (isFull()) return false;
+        if (isFull())
+            return false;
 
         v[back] = value;
         back = (back + 1) % capacity;
@@ -32,7 +34,8 @@ class MyCircularDeque {
     }
 
     public boolean deleteFront() {
-        if (isEmpty()) return false;
+        if (isEmpty())
+            return false;
 
         front = (front + 1) % capacity;
         size--;
@@ -40,7 +43,8 @@ class MyCircularDeque {
     }
 
     public boolean deleteLast() {
-        if (isEmpty()) return false;
+        if (isEmpty())
+            return false;
 
         back = (back - 1 + capacity) % capacity;
         size--;
@@ -48,12 +52,14 @@ class MyCircularDeque {
     }
 
     public int getFront() {
-        if (isEmpty()) return -1;
+        if (isEmpty())
+            return -1;
         return v[front];
     }
 
     public int getRear() {
-        if (isEmpty()) return -1;
+        if (isEmpty())
+            return -1;
         return v[(back - 1 + capacity) % capacity];
     }
 
