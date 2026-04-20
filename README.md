@@ -41,6 +41,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1019-next-greater-node-in-linked-list) |
+| [1046-last-stone-weight](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -308,6 +309,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
