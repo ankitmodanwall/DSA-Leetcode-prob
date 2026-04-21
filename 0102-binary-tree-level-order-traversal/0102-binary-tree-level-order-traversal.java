@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
-        
+
         if (root == null)
             return res;
 
@@ -11,11 +11,11 @@ class Solution {
         q.add(root);
 
         while (!q.isEmpty()) {
-            int size = q.size(); 
+            int size = q.size();
             List<Integer> level = new ArrayList<>();
 
             for (int i = 0; i < size; i++) {
-                TreeNode node = q.remove(); 
+                TreeNode node = q.remove();
                 level.add(node.val);
 
                 if (node.left != null)
