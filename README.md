@@ -400,4 +400,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
