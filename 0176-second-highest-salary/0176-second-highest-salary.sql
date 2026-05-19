@@ -1,3 +1,4 @@
+-- SecondHighestSalary
 SELECT MAX(salary) as SecondHighestSalary
 FROM employee
 WHERE salary < ( 
